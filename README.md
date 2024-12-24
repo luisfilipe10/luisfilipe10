@@ -5,6 +5,26 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/luisfilipe10/luisfilipe10/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
 <br clear="both">
 
 <div align="center">
@@ -17,20 +37,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://imgs.search.brave.com/StoqqK9MbZ74a_fP9knBFyFtsz4_DfsQKFtAPaZ8vXg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTQ0/OTE3MTc4NS9waG90/by95b3VuZy1pdC1z/cGVjaWFsaXN0LXdv/cmtpbmctYXQtcGMt/YXQtaG9tZS1kZWJ1/Z2dpbmctamF2YS1z/Y3JpcHQtY3liZXIt/c3BhY2UtZXJyb3Iu/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PWRNNTFXSlJEYzhE/cDM0X2U5VXRQa3Jj/emZhU0MyUVRlZkh3/eklvZ052VWM9"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/luisfilipe10/luisfilipe10/output/snake.svg" alt="Snake animation" />
-
-###
-
