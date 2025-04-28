@@ -1,5 +1,5 @@
 Olá, eu sou o Luis Martins! 👋
-🎯 Cientista de Dados em formação | Python Developer | SQL Analyst | Power BI Enthusiast
+🎯 Data Engineer  em formação | Python Developer | SQL Analyst | Power BI Enthusiast
 
 Transformo dados em informações estratégicas que impulsionam decisões e geram valor para projetos e negócios.
 
@@ -19,9 +19,11 @@ Transformo dados em informações estratégicas que impulsionam decisões e gera
 
 📈 Estatísticas do GitHub
 <div align="center"> <a href="https://github.com/luisfilipe10"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisfilipe10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfilipe10&layout=compact&langs_count=7&theme=dracula"/> </div>
-📍 Atualmente aprendendo:
-SQL Avançado e Modelagem de Dados
 
+  📍 Atualmente aprendendo:
+- SQL Avançado 
+- Fabric
+- Azure 
 
 🌐 Vamos nos conectar?
 
