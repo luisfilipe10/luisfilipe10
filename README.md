@@ -1,35 +1,27 @@
 Olá, eu sou o Luis Martins! 👋
 🎯 Cientista de Dados em formação | Python Developer | SQL Analyst | Power BI Enthusiast
 
-Transformo dados em informações estratégicas que geram valor para negócios e projetos.
+Transformo dados em informações estratégicas que impulsionam decisões e geram valor para projetos e negócios.
 
 🚀 Sobre Mim
-🎓 Estudante de Ciência de Dados, com foco em análise e visualização de dados.
+🎓 Estudante dedicado de Engenharia de Dados.
 
-💻 Apaixonado por Python, análise exploratória e automação de processos.
+💡 Explorador de novas tecnologias em Machine Learning e Business Intelligence.
 
-📈 Ampliando habilidades em Machine Learning e Storytelling com Dados.
+🌍 Acredito no poder da educação contínua e colaboração aberta.
 
-🌍 Aberto para colaborações em projetos de Data Science, Business Intelligence e Data Engineering.
+🛠️ Skills Principais
 
-🔥 Em constante evolução, acreditando que aprender é o que nos move.
-
-🛠️ Tecnologias e Ferramentas
-<div style="display: flex; flex-wrap: wrap; gap: 10px;"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"> <img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"> <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"> </div>
 📚 Projetos em Destaque
-📊 Data Analysis - Projetos práticos de análise de dados usando Python e Pandas.
+🔍 Data Analysis
 
-🧠 Python para Data Science - Cadernos Jupyter para estudos e aplicações práticas.
+📈 Python para Data Science
 
-🛠️ Em breve: Dashboard interativo usando Power BI!
+📈 Estatísticas do GitHub
+<div align="center"> <a href="https://github.com/luisfilipe10"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisfilipe10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfilipe10&layout=compact&langs_count=7&theme=dracula"/> </div>
+📍 Atualmente aprendendo:
+SQL Avançado e Modelagem de Dados
 
-📈 Minhas Estatísticas
 
-🧠 Atualmente Estou Aprendendo
-SQL Avançado para análise de dados.
+🌐 Vamos nos conectar?
 
-Desenvolvimento de APIs com Flask.
-
-Machine Learning básico (Classificação e Regressão).
-
-📫 Vamos nos conectar?
