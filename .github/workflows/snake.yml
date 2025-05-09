@@ -1,27 +1,6 @@
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"  # Gera a cada dia
-  workflow_dispatch:  # Permite rodar manualmente
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout do repositório
-        uses: actions/checkout@v4
-
-      - name: Gerar a animação da Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: luisfilipe10
-          outputs: |
-            ./github-contribution-grid-snake.svg
-            ./github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Commit e Push da animação
-        uses: EndBug/add-and-commit@v9
-        with:
-          default_author: github_actions
-          message: Atualizando animação Snake Contributions
+- name: Commit e Push da animação
+  uses: EndBug/add-and-commit@v9
+  with:
+    default_author: github_actions
+    message: Atualizando animação Snake Contributions
+    token: ${{ secrets.GH_TOKEN }}
