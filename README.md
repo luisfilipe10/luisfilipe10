@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">👋 Olá, eu sou o Luis Martins!  Entusiasta em Engenharia de Dados<br><br>Transformo dados em informações estratégicas que impulsionam decisões e geram valor para projetos e negócios.<br><br>🚀  Estudante dedicado de Engenharia  / Análise de Dados.<br><br>💡 Explorador de novas tecnologias em Machine Learning e Business Intelligence.<br><br>🛠️ Skills Principais: <br><br>- Power BI<br>- Excel<br>- SQL<br>- Python<br><br>📚 Atualmente aprendendo:<br><br>SQL Avançado<br>Fabric<br>Azure <br>Databricks</p>
+<p align="left">👋 Olá, eu sou o Luis Martins!  Entusiasta em Engenharia de Dados<br><br>Transformo dados em informações estratégicas que impulsionam decisões e geram valor para projetos e negócios.<br><br>🚀  Estudante dedicado de Engenharia  / Análise de Dados.<br><br>💡 Explorador de novas tecnologias em Machine Learning e Business Intelligence.<br><br>🛠️ Skills Principais: <br><br>- Power BI<br>- Excel<br>- SQL<br>- Python<br><br>📚 Atualmente aprendendo:<br><br>SQL Avançado<br>MS SERVER<br>Azure<br>Integration Services</p>
 
 ###
 
