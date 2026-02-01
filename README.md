@@ -95,6 +95,6 @@ Transformo dados em informações estratégicas que impulsionam decisões e gera
 
 <img src="https://img.shields.io/github/followers/luisfilipe10?style=for-the-badge&color=ff69b4" alt="Followers"/>
 
-<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
+<p> <i>Let's connect and build amazing things together!</i> 🚀</p>
 
 </div>
